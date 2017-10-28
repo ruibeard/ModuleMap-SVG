@@ -11,13 +11,35 @@ The main goal is to convert a pdf containing an image with a *"tube-like"* map i
 ![Old pdf/ image ](https://github.com/rtralmeida/ModuleMap-SVG/raw/master/modulemap.png "old image / pdf")
 
 ### New clickable SVG MAP
-![alt text ](https://github.com/rtralmeida/ModuleMap-SVG/raw/master/SVGmodulemap.png "New clicable SVG")
+
+[![Image Link](https://github.com/rtralmeida/ModuleMap-SVG/raw/master/SVGmodulemap.png)](https://rtralmeida.github.io/ModuleMap-SVG/)
 
 
 ## How to use
 
 [Go to this and click on the exercises circles and you will be redirected to the correct exercise (I hope so :) )](https://rtralmeida.github.io/ModuleMap-SVG/) 
 
+## How I did it:
+
+1. Created the map on illustrator and gave the name to each layer the same of the exercises (you will understand why below)
+2. Exported the SVG code from Illustrator 
+3. Inserted the SVG code onto a new HTML file  
+4. Created a JS file to create dynamically each exercise anchor `<a>` like so:
+```
+    window.onload = function() {
+    var uri="http://fstcat-csharp-exercises.azurewebsites.net/Exercises/";
+    var exercises = document.querySelectorAll('.line > g');
+    [].forEach.call(exercises, function(ex) {
+    var link = document.createElementNS("http://www.w3.org/2000/svg","a");
+    link.setAttribute("href", uri + ex.id + ".html") ;
+    link.setAttribute("target", "_blank");
+    while (ex.firstChild) {
+    link.appendChild(ex.firstChild)
+    }
+    ex.appendChild(link);
+    });
+    };
+```
 
 ## Tools Used  
 
@@ -27,7 +49,6 @@ The main goal is to convert a pdf containing an image with a *"tube-like"* map i
 * Github/ Github Pages - to host the repo and the page
 * Coffe Machine ( you know why ) 
 
-
 ## Contribute 
 
 Anyone is welcome to comment or make a pull request.
@@ -35,7 +56,8 @@ The main goal with this is to learn, not to prove *anyone anything*
 Please feel free to suggest some code improvements or techniques. 
 
 
-### Author:
+### about me:
 
 **Rui Almeida**
+**ruialmieda.me**
 **iam@ruialmeida.me**
