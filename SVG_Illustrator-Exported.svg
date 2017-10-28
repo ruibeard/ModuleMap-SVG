@@ -59,7 +59,7 @@
       }
     </style>
   </defs>
-  <title>map</title>
+  <title>SVG_Illustrator-Exported</title>
   <g id="Layer_2" data-name="Layer 2">
     <g id="Layer_3" data-name="Layer 3">
       <g id="LightBlue">
@@ -162,12 +162,12 @@
           <text class="cls-2" transform="translate(1099.5 110.48)">Don’t Cross <tspan x="0" y="13.2">the Streams</tspan></text>
           <circle class="cls-3" cx="1129.38" cy="153.93" r="13"/>
         </g>
-        <g id="Simple_XML" data-name="Simple XML">
+        <g id="SimpleXML">
           <text class="cls-2" transform="translate(1309.06 90.63)">Simple XML</text>
           <circle class="cls-3" cx="1277.94" cy="93.08" r="13"/>
         </g>
       </g>
-      <g id="green">
+      <g id="Green">
         <path class="cls-7" d="M718.68,154.86H504.84a11.13,11.13,0,0,0-6.83,2.83L375.42,280.28a4,4,0,0,0,0,5.66l38.84,38.84a11.13,11.13,0,0,1,2.83,6.83V529.86a4,4,0,0,1-4,4H309.84a13,13,0,0,1-7.09-2.54l-63.91-52.71"/>
         <g id="CountingUpAgain">
           <text class="cls-2" transform="translate(314.62 549.55) rotate(45)">Counting Up <tspan x="0" y="13.2" xml:space="preserve">  Again</tspan></text>
@@ -190,7 +190,7 @@
           <circle class="cls-3" cx="414.94" cy="326.61" r="13"/>
         </g>
       </g>
-      <g id="yellow">
+      <g id="Yellow">
         <path class="cls-8" d="M347.59,256.61l-32.17,26.46a9.63,9.63,0,0,0-3.09,6.54v185.5a4,4,0,0,1-4,4h-68a13,13,0,0,1-7.09-2.54l-54.66-45"/>
         <g id="TryParsing">
           <text class="cls-2" transform="translate(336.59 331.13)">Try Parsing</text>
@@ -217,7 +217,7 @@
           <circle class="cls-3" cx="241.76" cy="483.36" r="13"/>
         </g>
       </g>
-      <g id="redline">
+      <g id="Red">
         <path class="cls-9" d="M247.09,32.61l40.17,40.17a11.13,11.13,0,0,1,2.83,6.83v83.5a11.13,11.13,0,0,1-2.83,6.83L176,281.23"/>
         <path class="cls-9" d="M92.59,225.77H172a4,4,0,0,1,4,4l-1.06,402"/>
         <path class="cls-9" d="M284.09,712.11"/>
@@ -266,7 +266,7 @@
           <circle class="cls-3" cx="175.42" cy="530.11" r="13"/>
         </g>
       </g>
-      <g id="olive">
+      <g id="Olive">
         <path class="cls-10" d="M546.19,545.61h-37.5a4.12,4.12,0,0,0-4.09,4l-.64,29.5a3.91,3.91,0,0,0,3.91,4h29.5a4,4,0,0,0,4-4L542.18,214a4,4,0,0,1,4-4h173.9"/>
         <g id="MethodComments">
           <text class="cls-2" transform="translate(563.09 410.73)">Method Comments</text>
@@ -281,7 +281,7 @@
           <circle class="cls-3" cx="714.27" cy="210.22" r="13"/>
         </g>
         <g id="TicTacToe">
-          <text class="cls-2" transform="translate(680.06 281.54) rotate(45)">Tic Tac Toe</text>
+          <text class="cls-2" transform="translate(680.05 281.6) rotate(45)">Tic Tac Toe</text>
           <circle class="cls-3" cx="665.94" cy="259.7" r="13"/>
         </g>
         <g id="Rectangles">
@@ -289,7 +289,7 @@
           <circle class="cls-3" cx="542.6" cy="305.04" r="13"/>
         </g>
         <g id="WhiteBox">
-          <text class="cls-2" transform="translate(609.43 277.85) rotate(-45)">White Box</text>
+          <text class="cls-2" transform="translate(609.48 277.85) rotate(-45)">White Box</text>
           <circle class="cls-3" cx="667.94" cy="211.52" r="13"/>
         </g>
         <g id="Breakdown">
@@ -301,7 +301,7 @@
           <circle class="cls-3" cx="542.94" cy="464.52" r="13"/>
         </g>
       </g>
-      <g id="blackline">
+      <g id="Black">
         <line class="cls-11" x1="82.59" y1="711.44" x2="176.28" y2="631.75"/>
         <g id="BasicComments">
           <text class="cls-2" transform="translate(157.42 676.25)">Basic Comments</text>
