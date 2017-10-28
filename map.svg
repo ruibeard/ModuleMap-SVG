@@ -1,0 +1,321 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1541.18 726.94">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+        stroke-width: 10px;
+      }
+
+      .cls-1 {
+        stroke: #9cc;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 11px;
+        font-family: SourceCodePro-Bold, Source Code Pro;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #999;
+        stroke-width: 9px;
+      }
+
+      .cls-4 {
+        stroke: #c00;
+      }
+
+      .cls-5 {
+        stroke: #06c;
+      }
+
+      .cls-6 {
+        stroke: #f3c;
+      }
+
+      .cls-7 {
+        stroke: #096;
+      }
+
+      .cls-8 {
+        stroke: #ff0;
+      }
+
+      .cls-9 {
+        stroke: red;
+      }
+
+      .cls-10 {
+        stroke: #663;
+      }
+
+      .cls-11 {
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <title>map</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_3" data-name="Layer 3">
+      <g id="LightBlue">
+        <line class="cls-1" x1="1184.26" y1="268.3" x2="1184.26" y2="336.11"/>
+        <line class="cls-1" x1="1128.92" y1="164.77" x2="1128.92" y2="212.97"/>
+        <line class="cls-1" x1="1312.26" y1="396.3" x2="1312.26" y2="470.97"/>
+        <path class="cls-1" d="M1464.14,548.19l-335.4-335.4a11.13,11.13,0,0,0-6.83-2.83H729.18"/>
+        <g id="VectorClass">
+          <text class="cls-2" transform="translate(883.87 229.05) rotate(45)">Vector Class</text>
+          <circle class="cls-3" cx="869.94" cy="212.55" r="13"/>
+        </g>
+        <g id="DataCopier">
+          <text class="cls-2" transform="translate(818.98 226.3) rotate(45)">Data Copier</text>
+          <circle class="cls-3" cx="805.05" cy="209.8" r="13"/>
+        </g>
+        <g id="AbsoluteZero">
+          <text class="cls-2" transform="translate(946.32 228.32) rotate(45)">Absolute Zero</text>
+          <circle class="cls-3" cx="932.39" cy="211.83" r="13"/>
+        </g>
+        <g id="Fractions">
+          <text class="cls-2" transform="translate(1011.66 226.96) rotate(45)">Fractions</text>
+          <circle class="cls-3" cx="997.73" cy="210.46" r="13"/>
+        </g>
+        <g id="BankAccount">
+          <text class="cls-2" transform="translate(1068.2 225.71) rotate(45)">Bank Account</text>
+          <circle class="cls-3" cx="1054.27" cy="209.22" r="13"/>
+        </g>
+        <g id="MusicShop">
+          <text class="cls-2" transform="translate(1323.73 549.23) rotate(-45)">Music Shop</text>
+          <circle class="cls-3" cx="1385.94" cy="476.05" r="13"/>
+        </g>
+        <g id="Generics">
+          <text class="cls-2" transform="translate(1256.73 534.92) rotate(-45)">Generics</text>
+          <circle class="cls-3" cx="1308.94" cy="471.74" r="13"/>
+        </g>
+        <g id="Lander">
+          <text class="cls-2" transform="translate(1142.4 383.92) rotate(-45)">Lander</text>
+          <circle class="cls-3" cx="1182.6" cy="335.74" r="13"/>
+        </g>
+        <g id="VirtualPeople">
+          <text class="cls-2" transform="translate(1145.71 213.83)">Virtual Student</text>
+          <circle class="cls-3" cx="1127.6" cy="208.08" r="13"/>
+        </g>
+        <g id="CharacterClass">
+          <text class="cls-2" transform="translate(1176.4 452.92) rotate(-45)">Character Class</text>
+          <circle class="cls-3" cx="1266.6" cy="354.74" r="13"/>
+        </g>
+        <g id="CastAway">
+          <text class="cls-2" transform="translate(1242.07 468.26) rotate(-45)">Cast Away</text>
+          <circle class="cls-3" cx="1312.27" cy="400.08" r="13"/>
+        </g>
+      </g>
+      <g id="RedDark">
+        <line class="cls-4" x1="1230.66" y1="245.7" x2="1499.89" y2="514.94"/>
+        <g id="CarDealer">
+          <text class="cls-2" transform="translate(1446.15 414.08) rotate(45)">Car Dealer</text>
+          <circle class="cls-3" cx="1448.06" cy="468.21" r="13"/>
+        </g>
+        <g id="TimingApp">
+          <text class="cls-2" transform="translate(1373.2 340.26) rotate(45)">Timming App</text>
+          <circle class="cls-3" cx="1375.11" cy="394.4" r="13"/>
+        </g>
+        <g id="Calculator">
+          <text class="cls-2" transform="translate(1313.87 281.31) rotate(45)">Calculator</text>
+          <circle class="cls-3" cx="1315.78" cy="335.45" r="13"/>
+        </g>
+        <g id="HelloWorldOfWindows">
+          <text class="cls-2" transform="translate(1240.69 201.61) rotate(45)">Hello World <tspan x="0" y="13.2">of Windows</tspan></text>
+          <circle class="cls-3" cx="1242.6" cy="255.74" r="13"/>
+        </g>
+      </g>
+      <g id="Blue">
+        <path class="cls-5" d="M351.84,251.86,498.76,104.94a11.13,11.13,0,0,1,6.83-2.83H718.68"/>
+        <line class="cls-5" x1="501.09" y1="41.61" x2="501.09" y2="102.11"/>
+        <g id="MultipleChoiceQuestion">
+          <text class="cls-2" transform="translate(330.61 145.38) rotate(45)">Multiple<tspan x="0" y="13.2">Choice</tspan><tspan x="0" y="26.4">Question</tspan></text>
+          <circle class="cls-3" cx="375.52" cy="220.51" r="13"/>
+        </g>
+        <g id="ArithmeticMean">
+          <text class="cls-2" transform="translate(362.69 89.96) rotate(45)">Arithemetic<tspan x="23.1" y="13.2">Mean</tspan></text>
+          <circle class="cls-3" cx="430.27" cy="162.76" r="13"/>
+        </g>
+        <g id="MonthlyCalendar">
+          <text class="cls-2" transform="translate(436.18 58.8) rotate(45)">Monthly<tspan x="0" y="13.2">Calendar</tspan></text>
+          <circle class="cls-3" cx="488.09" cy="115.94" r="13"/>
+        </g>
+        <g id="CustomDice">
+          <text class="cls-2" transform="translate(460.47 9.13)">Custom Dice</text>
+          <circle class="cls-3" cx="501.09" cy="47.11" r="13"/>
+        </g>
+      </g>
+      <g id="Pink">
+        <path class="cls-6" d="M1537.64,471.69,1223.23,157.29a11.13,11.13,0,0,0-6.83-2.83H729.18"/>
+        <line class="cls-6" x1="1213.66" y1="154.46" x2="1276.28" y2="91.84"/>
+        <g id="Tom_Dick" data-name="Tom Dick">
+          <text class="cls-2" transform="translate(984.17 106.97)">Tom Dick <tspan x="0" y="13.2">&amp; Harry</tspan></text>
+          <circle class="cls-3" cx="1007.05" cy="154.42" r="13"/>
+        </g>
+        <g id="Dont_Cross" data-name="Dont Cross">
+          <text class="cls-2" transform="translate(1099.5 110.48)">Don’t Cross <tspan x="0" y="13.2">the Streams</tspan></text>
+          <circle class="cls-3" cx="1129.38" cy="153.93" r="13"/>
+        </g>
+        <g id="Simple_XML" data-name="Simple XML">
+          <text class="cls-2" transform="translate(1309.06 90.63)">Simple XML</text>
+          <circle class="cls-3" cx="1277.94" cy="93.08" r="13"/>
+        </g>
+      </g>
+      <g id="green">
+        <path class="cls-7" d="M718.68,154.86H504.84a11.13,11.13,0,0,0-6.83,2.83L375.42,280.28a4,4,0,0,0,0,5.66l38.84,38.84a11.13,11.13,0,0,1,2.83,6.83V529.86a4,4,0,0,1-4,4H309.84a13,13,0,0,1-7.09-2.54l-63.91-52.71"/>
+        <g id="CountingUpAgain">
+          <text class="cls-2" transform="translate(314.62 549.55) rotate(45)">Counting Up <tspan x="0" y="13.2" xml:space="preserve">  Again</tspan></text>
+          <circle class="cls-3" cx="305.6" cy="531.94" r="13"/>
+        </g>
+        <g id="CountingUpOnceMore">
+          <text class="cls-2" transform="translate(426.29 547.55) rotate(45)">Counting Up<tspan x="6.6" y="13.2">Once More</tspan></text>
+          <circle class="cls-3" cx="412.94" cy="532.61" r="13"/>
+        </g>
+        <g id="TestPlan">
+          <text class="cls-2" transform="translate(552.94 136.08)">Test Plan</text>
+          <circle class="cls-3" cx="540.11" cy="152.55" r="13"/>
+        </g>
+        <g id="DrinksMachine">
+          <text class="cls-2" transform="translate(435.29 263.8) rotate(-45)">Drinks Machine</text>
+          <circle class="cls-3" cx="448.09" cy="212.11" r="13"/>
+        </g>
+        <g id="Debugger">
+          <text class="cls-2" transform="translate(435.09 329.81)">Debugger</text>
+          <circle class="cls-3" cx="414.94" cy="326.61" r="13"/>
+        </g>
+      </g>
+      <g id="yellow">
+        <path class="cls-8" d="M347.59,256.61l-32.17,26.46a9.63,9.63,0,0,0-3.09,6.54v185.5a4,4,0,0,1-4,4h-68a13,13,0,0,1-7.09-2.54l-54.66-45"/>
+        <g id="TryParsing">
+          <text class="cls-2" transform="translate(336.59 331.13)">Try Parsing</text>
+          <circle class="cls-3" cx="310.59" cy="327.82" r="13"/>
+        </g>
+        <g id="HappinessMeter">
+          <text class="cls-2" transform="translate(227.07 369.34) rotate(-45)">Hapiness Meter</text>
+          <circle class="cls-3" cx="311.59" cy="284.77" r="13"/>
+        </g>
+        <g id="MathFunctions">
+          <text class="cls-2" transform="translate(336.59 371.17)">Math Functions</text>
+          <circle class="cls-3" cx="310.59" cy="367.86" r="13"/>
+        </g>
+        <g id="TicketSales">
+          <text class="cls-2" transform="translate(336.59 415.17)">Ticket Sales</text>
+          <circle class="cls-3" cx="310.59" cy="411.86" r="13"/>
+        </g>
+        <g id="MagicNumbers">
+          <text class="cls-2" transform="translate(337.09 478)">Magic Numbers</text>
+          <circle class="cls-3" cx="311.09" cy="474.69" r="13"/>
+        </g>
+        <g id="DrivingTest">
+          <text class="cls-2" transform="translate(240.94 591.89) rotate(-90)">Driving Test</text>
+          <circle class="cls-3" cx="241.76" cy="483.36" r="13"/>
+        </g>
+      </g>
+      <g id="redline">
+        <path class="cls-9" d="M247.09,32.61l40.17,40.17a11.13,11.13,0,0,1,2.83,6.83v83.5a11.13,11.13,0,0,1-2.83,6.83L176,281.23"/>
+        <path class="cls-9" d="M92.59,225.77H172a4,4,0,0,1,4,4l-1.06,402"/>
+        <path class="cls-9" d="M284.09,712.11"/>
+        <g id="PaperProblem">
+          <text class="cls-2" transform="translate(3.11 148.38) rotate(45)">Paper Problem</text>
+          <circle class="cls-3" cx="91.09" cy="228.77" r="13"/>
+        </g>
+        <g id="PaintProblem">
+          <text class="cls-2" transform="translate(66.61 142.97) rotate(45)">Paint Problem</text>
+          <circle class="cls-3" cx="149.59" cy="227.36" r="13"/>
+        </g>
+        <g id="YouthCalculator">
+          <text class="cls-2" transform="translate(27.59 315.75)">Youth Calculator</text>
+          <circle class="cls-3" cx="175.59" cy="312.44" r="13"/>
+        </g>
+        <g id="ConsoleMenu">
+          <text class="cls-2" transform="translate(170.59 172.57)">Console Menu</text>
+          <circle class="cls-3" cx="288.59" cy="169.25" r="13"/>
+        </g>
+        <g id="Verification">
+          <text class="cls-2" transform="translate(146.89 40.25)">Verification</text>
+          <circle class="cls-3" cx="252.09" cy="36.94" r="13"/>
+        </g>
+        <g id="TemperatureConversion">
+          <text class="cls-2" transform="translate(106.09 129.92)">Temperature Conversion</text>
+          <circle class="cls-3" cx="290.09" cy="126.61" r="13"/>
+        </g>
+        <g id="RetirementPlanner">
+          <text class="cls-2" transform="translate(26.59 376.25)">Retirement Plan</text>
+          <circle class="cls-3" cx="174.59" cy="372.94" r="13"/>
+        </g>
+        <g id="GettingNumbers">
+          <text class="cls-2" transform="translate(26.59 432.42)">Getting Numbers</text>
+          <circle class="cls-3" cx="174.59" cy="429.11" r="13"/>
+        </g>
+        <g id="BusinessCard">
+          <text class="cls-2" transform="translate(25.92 489.42)">Business Card</text>
+          <circle class="cls-3" cx="173.92" cy="486.11" r="13"/>
+        </g>
+        <g id="BadData">
+          <text class="cls-2" transform="translate(195.59 86.82)">Bad Data</text>
+          <circle class="cls-3" cx="286.09" cy="78.94" r="13"/>
+        </g>
+        <g id="WelcomeMessage">
+          <text class="cls-2" transform="translate(27.42 533.42)">Welcome Message</text>
+          <circle class="cls-3" cx="175.42" cy="530.11" r="13"/>
+        </g>
+      </g>
+      <g id="olive">
+        <path class="cls-10" d="M546.19,545.61h-37.5a4.12,4.12,0,0,0-4.09,4l-.64,29.5a3.91,3.91,0,0,0,3.91,4h29.5a4,4,0,0,0,4-4L542.18,214a4,4,0,0,1,4-4h173.9"/>
+        <g id="MethodComments">
+          <text class="cls-2" transform="translate(563.09 410.73)">Method Comments</text>
+          <circle class="cls-3" cx="542.94" cy="407.52" r="13"/>
+        </g>
+        <g id="Recursion">
+          <text class="cls-2" transform="translate(564.09 357.48)">Recursion</text>
+          <circle class="cls-3" cx="543.94" cy="354.27" r="13"/>
+        </g>
+        <g id="RecordSales">
+          <text class="cls-2" transform="translate(728.2 226.71) rotate(45)">Record Sales</text>
+          <circle class="cls-3" cx="714.27" cy="210.22" r="13"/>
+        </g>
+        <g id="TicTacToe">
+          <text class="cls-2" transform="translate(680.06 281.54) rotate(45)">Tic Tac Toe</text>
+          <circle class="cls-3" cx="665.94" cy="259.7" r="13"/>
+        </g>
+        <g id="Rectangles">
+          <text class="cls-2" transform="translate(562.76 308.24)">Rectangles</text>
+          <circle class="cls-3" cx="542.6" cy="305.04" r="13"/>
+        </g>
+        <g id="WhiteBox">
+          <text class="cls-2" transform="translate(609.43 277.85) rotate(-45)">White Box</text>
+          <circle class="cls-3" cx="667.94" cy="211.52" r="13"/>
+        </g>
+        <g id="Breakdown">
+          <text class="cls-2" transform="translate(515.76 599.11) rotate(45)">Breakdown</text>
+          <circle class="cls-3" cx="507.94" cy="579.52" r="13"/>
+        </g>
+        <g id="GeometryCalculation">
+          <text class="cls-2" transform="translate(563.09 467.73)">Geometry Calculation</text>
+          <circle class="cls-3" cx="542.94" cy="464.52" r="13"/>
+        </g>
+      </g>
+      <g id="blackline">
+        <line class="cls-11" x1="82.59" y1="711.44" x2="176.28" y2="631.75"/>
+        <g id="BasicComments">
+          <text class="cls-2" transform="translate(157.42 676.25)">Basic Comments</text>
+          <circle class="cls-3" cx="131.42" cy="672.94" r="13"/>
+        </g>
+        <g id="CountingUp">
+          <text class="cls-2" transform="translate(201.42 635.59)">Counting Up</text>
+          <circle class="cls-3" cx="175.42" cy="632.27" r="13"/>
+        </g>
+        <g id="HelloWorld">
+          <text class="cls-2" transform="translate(112.59 712.75)">Hello World</text>
+          <circle class="cls-3" cx="86.59" cy="709.44" r="13"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
