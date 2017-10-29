@@ -8,11 +8,11 @@ I'm only using this material in order to learn new programming technologies like
 
 The main goal is to convert a pdf containing an image with a *"tube-like"* map into SVG that allowed us to click in each **exercise** (station)
 ### Old PDF / Image
-![Old pdf/ image ](https://github.com/rtralmeida/ModuleMap-SVG/raw/master/modulemap.png "old image / pdf")
+![Old pdf/ image ](https://github.com/rtralmeida/ModuleMap-SVG/raw/master/resources/modulemap.png "old image / pdf")
 
 ### New clickable SVG MAP
 
-[![Image Link](https://github.com/rtralmeida/ModuleMap-SVG/raw/master/SVGmodulemap.png)](https://rtralmeida.github.io/ModuleMap-SVG/)
+[![Image Link](https://github.com/rtralmeida/ModuleMap-SVG/raw/master/resources/SVGmodulemap.png)](https://rtralmeida.github.io/ModuleMap-SVG/)
 
 
 ## How to use
