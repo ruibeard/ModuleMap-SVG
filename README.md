@@ -19,6 +19,16 @@ The main goal is to convert a pdf containing an image with a *"tube-like"* map i
 
 [Go to this and click on the exercises circles and you will be redirected to the correct exercise (I hope so :) )](https://rtralmeida.github.io/ModuleMap-SVG/) 
 
+
+##How to update it:
+1. You need to update the SVG file code for that you have 2 options:
+..* Edit the *.ai* file and go to *File > Export Selection*
+..* Or import the file SVG_Illustrator-Exported.SVG into an SVG editor and make the change you need 
+2. Grab the SVG code `<svg>...</svg>` and paste it into the *index.html* file
+3. Profit :) (who needs more work anyway)
+
+
+
 ## How I did it:
 
 1. Created the map on illustrator and gave the name to each layer the same of the exercises (you will understand why below)
