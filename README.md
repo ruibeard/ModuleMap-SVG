@@ -36,19 +36,27 @@ The main goal is to convert a pdf containing an image with a *"tube-like"* map i
 3. Inserted the SVG code onto a new HTML file  
 4. Created a JS file to create dynamically each exercise anchor `<a>` like so:
 ```
-    window.onload = function() {
+document.addEventListener("DOMContentLoaded", function(){
     var uri="http://fstcat-csharp-exercises.azurewebsites.net/Exercises/";
-    var exercises = document.querySelectorAll('.line > g');
-    [].forEach.call(exercises, function(ex) {
-    var link = document.createElementNS("http://www.w3.org/2000/svg","a");
-    link.setAttribute("href", uri + ex.id + ".html") ;
-    link.setAttribute("target", "_blank");
-    while (ex.firstChild) {
-    link.appendChild(ex.firstChild)
-    }
-    ex.appendChild(link);
+    var exercises = document.querySelectorAll('[id^="Line_"] > g');
+    Array.prototype.forEach.call(exercises, function(ex, index) {
+        var link = document.createElementNS("http://www.w3.org/2000/svg","a");
+        console.log(link);
+        link.setAttributeNS('http://www.w3.org/1999/xlink', 'xlink:href', uri + ex.id + ".html");
+        link.setAttributeNS('', 'target', "_blank");
+        while (ex.firstChild) {
+            link.appendChild(ex.firstChild)
+        }
+        ex.appendChild(link);
     });
-    };
+});
+
+//Fix foreach doesnt work in IE and EDGE 
+//http://tips.tutorialhorizon.com/2017/01/06/object-doesnt-support-property-or-method-foreach/
+(function () {
+    if ( typeof NodeList.prototype.forEach === "function" ) return false;
+    NodeList.prototype.forEach = Array.prototype.forEach;
+})();
 ```
 
 ## Tools Used  
