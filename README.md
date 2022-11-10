@@ -65,12 +65,12 @@ document.addEventListener("DOMContentLoaded", function(){
 * Sublime Text - to edit the code
 * Git bash - to publish the code
 * Github/ Github Pages - to host the repo and the page
-* Coffe Machine ( you know why ) 
+* Coffe Machine
 
 ## Contribute 
 
 Anyone is welcome to comment or make a pull request.
-The main goal with this is to learn, not to prove *anyone anything*
+The main goal with this is to learn
 Please feel free to suggest some code improvements or techniques. 
 
 
